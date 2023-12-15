@@ -78,26 +78,26 @@ en: &DEFAULT_EN
         alt: "Research in Poland"
     # end: "Be Part <br> of Our <br> Story!"
 
-#  services:
-#    title: "Services"
-#    text: "Lorem ipsum"
-#    section: services
-#    list:
-#      - title: "E-Commerce"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-#      - title: "Responsive Design"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#        icon: fas fa-laptop
-#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-#        desc: "Your description here, full **Markdown** support"
-#        icon: fab fa-markdown
-
   portfolio:
     title: "Resume"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close"
+
+  services:
+    title: "Media"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
 #  clients:
 #    section: clients

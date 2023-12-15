@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Resume"
       section: portfolio
+    - title: "Media"
+      section: services
     - title: "Contact"
       section: contact
 en-US:
