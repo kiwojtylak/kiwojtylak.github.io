@@ -11,127 +11,152 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:
+    title: Kasia Wojtylak
     text: Kasia Wojtylak
     button: Tell Me More
     buttonlink: "#about"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
   about:
-    title: "About me"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About"
+    text: "About Kasia Wojtylak"
+    body: |
+      Katarzyna (Kasia) I. Wojtylak is an Assistant Professor at the University of Warsaw, Faculty of Oriental Studies. 
+      She earned her PhD in 2017 from James Cook University in Australia, receiving Summa Cum Laude distinction for her 
+      dissertation—a reference grammar of Murui, a Witotoan language spoken in southern Colombia and northern Peru. 
+      Published by Brill in 2020, the grammar resulted from two years of fieldwork in the Amazon conducted between 2010 
+      and 2017.  
+
+      Over the years, Kasia has taught linguistics and language documentation in Australia, Germany, and the 
+      Netherlands. She has also contributed to data archival of endangered languages at the Max Planck Institute for 
+      Psycholinguistics. Proficient in over eight languages, including English, Spanish, Dutch, German, Russian, 
+      Portuguese, Murui-Muina, and her native Polish, Kasia is knowledgeable in Greek, Arabic, Japanese, and 
+      Vietnamese.  
+
+      With a strong background in linguistic description and analysis, Kasia's interests span anthropological 
+      linguistics, language documentation, ethnographic research, and visual anthropology. Her current research focuses 
+      on language contact in Northwest Amazonia, specifically in the Caquetá-Putumayo region spanning Colombia and 
+      Peru. Kasia has (co-)authored over 30 articles and book chapters, including three co-edited volumes and a 
+      monograph.
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  timeline:
+    title: "Bio"
+    text: "The story so far"
+    section: timeline
+    # start_align: "left"  # left is the default
+    events:
+      - title: "Studies in the Netherlands"
+        year: "2009-2011"
+        desc: |
+          Kasia earned two Bachelor of Arts degrees in General Linguistics as well as English and Spanish Language and Culture at VU University Amsterdam (2007-2010). In 2012, Kasia graduated with a Master of Philosophy (Research Master) in Linguistics and Language Documentation at the same university (under the supervision of Professors Leo Wetzels and Willem Adelaar).  During her studies (2010-2011) she worked as a student assistant at the Max Planck Institute for Psycholinguistics and the Meertens Institute (the Royal Netherlands Academy of Arts and Sciences)
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Studies in Australia"
+        year: "March 2011"
+        desc: |
+          Continuing her academic journey in Australia, Kasia Wojtylak earned her PhD from James Cook University in 2017, achieving Summa Cum Laude distinction for her dissertation—a reference grammar of Murui, a Witotoan language spoken in southern Colombia and northern Peru (published by Brill in 2020). Kasia's time in Australia marked a pivotal phase in her linguistic research, contributing to anthropological linguistics and language documentation of Northwest Amazonia.
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Fieldwork in Colombia"
+        year: "2019"
+        desc: |
+          Two years of immersive fieldwork in the Colombian parts of the Amazon (2013, 2016) formed the cornerstone of her Ph.D. thesis on the Murui-Muina language. Engaging deeply within Witotoan communities along the Caraparana and Igaraparana Rivers, Kasia's research featured extensive sociolinguistic interactions, audiovisual recordings, and meticulous data collection.
+        image: assets/img/timeline/3.jpg
+        alt:
+      - title: "Teaching in Germany"
+        year: "2009-2011"
+        desc: |
+          After returning to Europe upon completion of her postdoc in Australia, Kasia held a Teaching and Research Fellow position at the University of Regensburg, Germany (2018-2020). In addition to her research work on the languages of Northwest Amazonia, she designed and delivered a spectrum of courses, spanning topics such as non-European language structure, historical Linguistics, language contact, linguistic methods for field research, linguistic typology, grammaticalization, and syntactic typology.
+        image: assets/img/timeline/4.jpg
+        alt:
+        align: right  # you can enforce the alignment
+      - title: "Research in Poland"
+        year: "2009-2011"
+        desc: |
+          Since returning to Poland, Kasia Wojtylak has continued her academic journey as a Postdoctoral Research Fellow at the University of Warsaw, initially working at the Artes liberales department (2020-2022). In November 2022, she embarked on a prestigious 3-year cross-disciplinary project, titled \"Social limits of languages: The dynamics of contact in Northwest Amazonia\". The project's overarching goal is to establish a comprehensive framework for analyzing diffusion patterns among the diverse languages in the region.
+        image: assets/img/timeline/4.jpg
+        alt:
+    # end: "Be Part <br> of Our <br> Story!"
 
-  team:
-    title: "OUR AMAZING TEAM"
+#  services:
+#    title: "Services"
+#    text: "Lorem ipsum"
+#    section: services
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
+
+  portfolio:
+    title: "Resume"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+    section: portfolio
+    closebutton: "Close"
+
+#  clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: ""  #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
+
+#  team:
+#    title: "OUR AMAZING TEAM"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#    section: team
+#    people:
+#      - name: "Kay Garland"
+#        role: "Lead Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+#        role: "Lead Marketer"
+#        image: assets/img/team/2.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+#        role: "Lead Developer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    # text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -168,308 +193,308 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
-  header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
-
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
-    list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
-
-  timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
-
-  about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
-
-  footer:
-    legal: "Política de Privacidad"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+#es: &DEFAULT_ES
+#  header:
+#    title: ¡Bienvenido a nuestro Estudio!
+#    text: Es un placer conocerle
+#    button: Ver más
+#    buttonlink: "#servicios"
+#
+#  services:
+#    title: "Servicios"
+#    text: "Lorem ipsum"
+#    section: servicios
+#    list:
+#      - title: "Comercio Electrónico"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Diseño Responsivo"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Su descripción aquí, soporte completo de **Markdown**"
+#        icon: fab fa-markdown
+#
+#  portfolio:
+#    title: "Portafolio"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    section: portafolio
+#    closebutton: "Cerrar Proyecto"
+#
+#  timeline:
+#    title: "Cronología"
+#    text: "Lorem ipsum timeline"
+#    section: cronologia
+#    # left is the default
+#    #start_align: "left"
+#    events:
+#      - title: "Nuestro Humilde Comienzo"
+#        year: "2009-2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Una Agencia nace"
+#        year: "March 2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "La plantilla Jekyll es creada"
+#        year: "2019"
+#        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "Título"
+#        year: "2009-2011"
+#        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+#        # you can enforce the alignment
+#        align: right
+#    end: "¡Se parte <br> de Nuestra <br> Historia!"
+#
+#  about:
+#    title: "Sobre nosotros"
+#    text: "nuestra historia"
+#    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+#    section: nosotros
+#
+#  clients:
+#    section: clientes
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
+#
+#  team:
+#    title: "NUESTRO INCREÍBLE EQUIPO"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#    section: equipo
+#    people:
+#      - name: "Kay Garland"
+#        role: "Lead Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+#        role: "Lead Marketer"
+#        image: assets/img/team/2.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+#        role: "Lead Developer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#
+#  contact:
+#    title: "Contáctenos"
+#    text: "Lorem ipsum or call 123456789"
+#    section: contacto
+#    name: "Nombre*"
+#    name-validation: "Por favor ingrese su nombre."
+#    email: "Correo Electrónico*"
+#    email-validation: "Por favor ingrese su correo electrónico."
+#    phone: "Número Telefónico*"
+#    phone-validation: "Por favor ingrese su número telefónico."
+#    message: "Mensaje*"
+#    message-validation: "Por favor escriba un mensaje."
+#    subject: "Envío del formulario de contacto"
+#    submit: "Enviar Mensaje"
+#
+#  footer:
+#    legal: "Política de Privacidad"
+#    social:
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"
+#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+#      - url: https://github.com/raviriley/agency-jekyll-theme
+#        icon: "fab fa-github"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
+#es-ES:
+#  <<: *DEFAULT_ES
+#es-CO:
+#  <<: *DEFAULT_ES
 
 # Deutsch
 # -----------------
-de: &DEFAULT_DE
-  header:
-    title: Willkommen auf unserer Webseite!
-    text: Schön das Sie hier sind!
-    button: Mehr erfahren
-    buttonlink: "#Angebote"
-
-  services:
-    title: "Leistungen"
-    text: "Was wir anbieten."
-    section: Leistungen
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: Portfolio
-    closebutton: "Schließen"
-
-  timeline:
-    title: "Geschichte"
-    text: "Lorem ipsum timeline"
-    section: Geschichte
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Unsere Anfänge"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Gründung der Firma"
-        year: "März 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Das Jekyll-Thema wurde erstellt"
-        year: "2019"
-        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
-        image: assets/img/timeline/3.jpg
-        alt: Bildbeschreibung
-      - title: "Titel"
-        year: "2009-2011"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
-
-  about:
-    title: "Über uns"
-    text: "Unsere Geschichte."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: Ueber
-
-  clients:
-    section: Kunden
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "Unser großartiges Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: Team
-    people:
-      - name: "Kay Garland"
-        role: "Chef-Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Chef der Werbeabteilung"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Chef-Programmiererin"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Kontakt"
-    text: "Kontaktieren Sie uns."
-    section: Kontakt
-    name: "Name*"
-    name-validation: "Geben Sie einen Namen ein."
-    email: "E-Mail*"
-    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
-    phone: "Telefonnummer*"
-    phone-validation: "Geben Sie Ihre Telefonnummer ein."
-    message: "Nachricht*"
-    message-validation: "Schreiben Sie etwas..."
-    subject: "Kontakt-Formular Bestätigung"
-    submit: "Nachricht absenden"
-
-  footer:
-    legal: "Datenschutzerklärung"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-de-DE:
-  <<: *DEFAULT_DE
+#de: &DEFAULT_DE
+#  header:
+#    title: Willkommen auf unserer Webseite!
+#    text: Schön das Sie hier sind!
+#    button: Mehr erfahren
+#    buttonlink: "#Angebote"
+#
+#  services:
+#    title: "Leistungen"
+#    text: "Was wir anbieten."
+#    section: Leistungen
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
+#        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+#        icon: fab fa-markdown
+#
+#  portfolio:
+#    title: "Portfolio"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    section: Portfolio
+#    closebutton: "Schließen"
+#
+#  timeline:
+#    title: "Geschichte"
+#    text: "Lorem ipsum timeline"
+#    section: Geschichte
+#    # left is the default
+#    #start_align: "left"
+#    events:
+#      - title: "Unsere Anfänge"
+#        year: "2009-2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Gründung der Firma"
+#        year: "März 2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "Das Jekyll-Thema wurde erstellt"
+#        year: "2019"
+#        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
+#        image: assets/img/timeline/3.jpg
+#        alt: Bildbeschreibung
+#      - title: "Titel"
+#        year: "2009-2011"
+#        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+#        # you can enforce the alignment
+#        align: right
+#    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
+#
+#  about:
+#    title: "Über uns"
+#    text: "Unsere Geschichte."
+#    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+#    section: Ueber
+#
+#  clients:
+#    section: Kunden
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
+#
+#  team:
+#    title: "Unser großartiges Team"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#    section: Team
+#    people:
+#      - name: "Kay Garland"
+#        role: "Chef-Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+#        role: "Chef der Werbeabteilung"
+#        image: assets/img/team/2.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+#        role: "Chef-Programmiererin"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#
+#  contact:
+#    title: "Kontakt"
+#    text: "Kontaktieren Sie uns."
+#    section: Kontakt
+#    name: "Name*"
+#    name-validation: "Geben Sie einen Namen ein."
+#    email: "E-Mail*"
+#    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
+#    phone: "Telefonnummer*"
+#    phone-validation: "Geben Sie Ihre Telefonnummer ein."
+#    message: "Nachricht*"
+#    message-validation: "Schreiben Sie etwas..."
+#    subject: "Kontakt-Formular Bestätigung"
+#    submit: "Nachricht absenden"
+#
+#  footer:
+#    legal: "Datenschutzerklärung"
+#    social:
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"
+#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+#      - url: https://github.com/raviriley/agency-jekyll-theme
+#        icon: "fab fa-github"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
+#de-DE:
+#  <<: *DEFAULT_DE
