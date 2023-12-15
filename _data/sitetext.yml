@@ -46,36 +46,36 @@ en: &DEFAULT_EN
     # start_align: "left"  # left is the default
     events:
       - title: "Studies in the Netherlands"
-        year: "2009-2011"
+        year: "2004-2013"
         desc: |
-          Kasia earned two Bachelor of Arts degrees in General Linguistics as well as English and Spanish Language and Culture at VU University Amsterdam (2007-2010). In 2012, Kasia graduated with a Master of Philosophy (Research Master) in Linguistics and Language Documentation at the same university (under the supervision of Professors Leo Wetzels and Willem Adelaar).  During her studies (2010-2011) she worked as a student assistant at the Max Planck Institute for Psycholinguistics and the Meertens Institute (the Royal Netherlands Academy of Arts and Sciences)
-        image: assets/img/timeline/1.jpg
-        alt:
+          Kasia earned Bachelor's degrees in General Linguistics, English, and Spanish from VU University Amsterdam (2007-2010). In 2012, she completed a Master's in Linguistics under Professors Leo Wetzels and Willem Adelaar. During her studies (2010-2011), she worked as a student assistant at Max Planck Institute and Meertens Institute.
+        image: assets/img/timeline/1.png
+        alt: "Studies in the Netherlands"
       - title: "Studies in Australia"
-        year: "March 2011"
+        year: "2013-2018"
         desc: |
-          Continuing her academic journey in Australia, Kasia Wojtylak earned her PhD from James Cook University in 2017, achieving Summa Cum Laude distinction for her dissertation—a reference grammar of Murui, a Witotoan language spoken in southern Colombia and northern Peru (published by Brill in 2020). Kasia's time in Australia marked a pivotal phase in her linguistic research, contributing to anthropological linguistics and language documentation of Northwest Amazonia.
-        image: assets/img/timeline/2.jpg
-        alt:
+          In Australia, Kasia earned her PhD from James Cook University (2017) with Summa Cum Laude distinction for her Murui reference grammar, a Witotoan language spoken in Colombia and Peru. Her time there significantly contributed to language documentation of Northwest Amazonia.
+        image: assets/img/timeline/2.png
+        alt: "Studies in Australia"
       - title: "Fieldwork in Colombia"
-        year: "2019"
+        year: "2013, 2016"
         desc: |
-          Two years of immersive fieldwork in the Colombian parts of the Amazon (2013, 2016) formed the cornerstone of her Ph.D. thesis on the Murui-Muina language. Engaging deeply within Witotoan communities along the Caraparana and Igaraparana Rivers, Kasia's research featured extensive sociolinguistic interactions, audiovisual recordings, and meticulous data collection.
-        image: assets/img/timeline/3.jpg
-        alt:
+          In two immersive fieldwork periods in the Colombian Amazon, Kasia conducted research for her Ph.D. thesis on the Murui-Muina language. Engaging deeply with Witotoan communities along the Caraparana and Igaraparana Rivers for over two years, her work involved sociolinguistic interactions, audiovisual recordings, and meticulous data collection.
+        image: assets/img/timeline/3.png
+        alt: "Fieldwork in Colombia"
       - title: "Teaching in Germany"
-        year: "2009-2011"
+        year: "2018-2020"
         desc: |
-          After returning to Europe upon completion of her postdoc in Australia, Kasia held a Teaching and Research Fellow position at the University of Regensburg, Germany (2018-2020). In addition to her research work on the languages of Northwest Amazonia, she designed and delivered a spectrum of courses, spanning topics such as non-European language structure, historical Linguistics, language contact, linguistic methods for field research, linguistic typology, grammaticalization, and syntactic typology.
-        image: assets/img/timeline/4.jpg
-        alt:
-        align: right  # you can enforce the alignment
+          After her postdoc in Australia, Kasia became a Teaching and Research Fellow at the University of Regensburg, Germany (2018-2020). Alongside research on Northwest Amazonian languages, she designed and taught courses covering non-European language structure, historical linguistics, language contact, linguistic methods for field research, linguistic typology, grammaticalization, and syntactic typology.
+        image: assets/img/timeline/4.png
+        alt: "Teaching in Germany"
+        # align: right  # you can enforce the alignment
       - title: "Research in Poland"
-        year: "2009-2011"
+        year: "2021-present day"
         desc: |
-          Since returning to Poland, Kasia Wojtylak has continued her academic journey as a Postdoctoral Research Fellow at the University of Warsaw, initially working at the Artes liberales department (2020-2022). In November 2022, she embarked on a prestigious 3-year cross-disciplinary project, titled \"Social limits of languages: The dynamics of contact in Northwest Amazonia\". The project's overarching goal is to establish a comprehensive framework for analyzing diffusion patterns among the diverse languages in the region.
-        image: assets/img/timeline/4.jpg
-        alt:
+          Back in Poland, Kasia Wojtylak, a Postdoctoral Research Fellow at the University of Warsaw (2020-2022), initiated a 3-year cross-disciplinary project in November 2022. Titled "Social limits of languages: The dynamics of contact in Northwest Amazonia," the project aims to comprehensively analyze diffusion patterns among the diverse languages in the region.
+        image: assets/img/timeline/5.png
+        alt: "Research in Poland"
     # end: "Be Part <br> of Our <br> Story!"
 
 #  services:
