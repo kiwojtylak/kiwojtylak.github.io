@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-agency
 
-url    : kiwojtylak@github.io  # the base hostname & protocol for your site, e.g. http://example.com
+url    : https://kiwojtylak.github.io/  # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""  # the subpath of your site, e.g. /blog
 
 title      : Kasia Wojtylak
