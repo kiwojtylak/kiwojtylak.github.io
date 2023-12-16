@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Media"
       section: services
-    - title: "Contact"
+    - title: "Contact me"
       section: contact
 en-US:
   <<: *DEFAULT_EN
