@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Kasia Wojtylak
+    title: ""
     text: Kasia Wojtylak
     button: Tell Me More
     buttonlink: "#about"
 
   about:
     title: "About"
-    text: "About Kasia Wojtylak"
+    text: ""
     body: |
       Katarzyna (Kasia) I. Wojtylak is an Assistant Professor at the University of Warsaw, Faculty of Oriental Studies. 
       She earned her PhD in 2017 from James Cook University in Australia, receiving Summa Cum Laude distinction for her 
@@ -41,7 +41,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Bio"
-    text: "The story so far"
+    text: ""
     section: timeline
     # start_align: "left"  # left is the default
     events:
@@ -80,24 +80,27 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Resume"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close"
 
   services:
     title: "Media"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "A Treasure of the Amazon"
+        desc: "A short documentary about the Murui"
+        video: "qDSH4EAx_8o"
+        icon: fas fa-play  # find more at https://fontawesome.com/icons
+      - title: "The 3MT® 2014"
+        desc: "Journey to the competition’s finals at James Cook University"
+        video: "ZTh8qUVbOyM"
+        icon: fas fa-play
+      - title: "Murui Filmmakers"
+        desc: "A short documentary on language documentation among the Murui"
+        video: "SJT68R4QUw0"
+        icon: fas fa-play
 
 #  clients:
 #    section: clients

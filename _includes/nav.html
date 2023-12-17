@@ -5,14 +5,14 @@
   style="background-color: #212529"
 >
   <div class="container">
+    <!--
     <a class="navbar-brand js-scroll-trigger" href="{{ site.baseurl }}/#">
       {%- if site.logo -%}
-      <img
-        height="{{ site.logo.height | default: 52 }}"
-        src="{{ site.logo.path }}"
-      />
+      <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
       {%- else -%} {{ site.title }} {%- endif -%}
     </a>
+    -->
+
     <button
       class="navbar-toggler navbar-toggler-right"
       type="button"
@@ -21,9 +21,8 @@
       aria-controls="navbarResponsive"
       aria-expanded="false"
       aria-label="Toggle navigation"
-    >
-      Menu<i class="fas fa-bars"></i>
-    </button>
+    >Menu<i class="fas fa-bars"></i></button>
+
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav text-uppercase ml-auto">
       {% if site.locale and site.locale != "" and site.locale != nil %}
