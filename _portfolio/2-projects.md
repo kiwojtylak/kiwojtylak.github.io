@@ -1,11 +1,11 @@
 ---
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Projects
+  # subtitle: Projects
   thumbnail: https://place-hold.it/400x300
 
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Projects
+subtitle: Projects
 image: https://place-hold.it/400x300   # main image, can be a link or a file in assets/img/portfolio
 alt: Shirts on a hanger
 ---
