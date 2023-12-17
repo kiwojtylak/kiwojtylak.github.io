@@ -47,11 +47,12 @@
       text-align: center;
       background-color: $white;
       h4 {
+        font-size: 15px;
         margin: 0;
         text-transform: none;
       }
       p {
-        font-size: 16px;
+        font-size: 14px;
         font-style: italic;
         margin: 0;
         @include serif-font;

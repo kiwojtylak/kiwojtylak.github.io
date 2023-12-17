@@ -1,13 +1,13 @@
 ---
 caption:  # what displays in the portfolio grid:
-  title: Publications
+  title: Field work
   subtitle: Find out more
-  thumbnail: assets/img/portfolio/3-publications.jpg
+  thumbnail: assets/img/portfolio/6-fieldwork.jpg
 
-title: Publications
+title: Field work
 subtitle: Read further
-image: assets/img/portfolio/3-publications.jpg   # main image, can be a link or a file in assets/img/portfolio
-alt: Publications
+image: assets/img/portfolio/6-fieldwork.jpg   # main image, can be a link or a file in assets/img/portfolio
+alt: Field work
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

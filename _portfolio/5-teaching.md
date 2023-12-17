@@ -1,13 +1,13 @@
 ---
 caption:  # what displays in the portfolio grid:
-  title: Publications
+  title: Teaching
   subtitle: Find out more
-  thumbnail: assets/img/portfolio/3-publications.jpg
+  thumbnail: assets/img/portfolio/5-teaching.jpg
 
-title: Publications
+title: Teaching
 subtitle: Read further
-image: assets/img/portfolio/3-publications.jpg   # main image, can be a link or a file in assets/img/portfolio
-alt: Publications
+image: assets/img/portfolio/5-teaching.jpg   # main image, can be a link or a file in assets/img/portfolio
+alt: Teaching
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
