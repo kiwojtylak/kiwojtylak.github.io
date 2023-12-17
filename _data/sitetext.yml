@@ -76,7 +76,7 @@ en: &DEFAULT_EN
           Back in Poland, Kasia Wojtylak, a Postdoctoral Research Fellow at the University of Warsaw (2020-2022), initiated a 3-year cross-disciplinary project in November 2022. Titled "Social limits of languages: The dynamics of contact in Northwest Amazonia," the project aims to comprehensively analyze diffusion patterns among the diverse languages in the region.
         image: assets/img/timeline/5.png
         alt: "Research in Poland"
-    # end: "Be Part <br> of Our <br> Story!"
+    # end: "We want to hide this"
 
   portfolio:
     title: "Resume"

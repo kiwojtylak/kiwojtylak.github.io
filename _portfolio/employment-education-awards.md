@@ -12,6 +12,8 @@ alt: image alt text
 ---
 Use this area to describe your project. **Markdown** supported.
 
+**this is bold**
+
 optional info list (delete if not using):
 
 {:.list-inline} 
