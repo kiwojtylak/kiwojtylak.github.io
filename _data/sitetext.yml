@@ -181,16 +181,16 @@ en: &DEFAULT_EN
         icon: "fab fa-orcid"
       - url: https://twitter.com/kiwojtylak
         icon: "fab fa-twitter"
-      # - url: https://research.jcu.edu.au/portfolio/katarzyna.wojtylak
+      #- url: https://research.jcu.edu.au/portfolio/katarzyna.wojtylak
       #  icon: "fab fa-jcu"
-      # - url: https://culturalcontinuity.al.uw.edu.pl/team/katarzyna-wojtylak
+      #- url: https://culturalcontinuity.al.uw.edu.pl/team/katarzyna-wojtylak
       #  icon: "fab fa-uw"
-      # - url: https://uw.academia.edu/KatarzynaIKasiaWojtylak
-      #  icon: "fab fa-academia"
+      - url: https://uw.academia.edu/KatarzynaIKasiaWojtylak
+        icon: "fab fa-academia"
       - url: https://www.researchgate.net/profile/Katarzyna-Wojtylak
         icon: "fab fa-researchgate"
-      - url: https://scholar.google.com/citations?user=h_jOsjsAAAAJ
-        icon: "fab fa-google-scholar"
+      #- url: https://scholar.google.com/citations?user=h_jOsjsAAAAJ
+      #  icon: "fab fa-google-scholar"
 
 en-US:
   <<: *DEFAULT_EN
