@@ -4,6 +4,7 @@
     right: 0;
     margin: 0 0 15px;
     .portfolio-link {
+      border: 5px solid #FED136;
       position: relative;
       display: block;
       max-width: 400px;
@@ -72,6 +73,10 @@
 }
 
 .portfolio-modal {
+  .col-lg-8 {
+    flex: 0 0 90% !important;
+    max-width: 90% !important;
+  }
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
@@ -79,6 +84,9 @@
   .modal-content {
     padding: 100px 0;
     text-align: center;
+    ol {
+      text-align: left;
+    }
     h2 {
       font-size: 3em;
       margin-bottom: 15px;

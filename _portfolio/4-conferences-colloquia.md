@@ -1,7 +1,7 @@
 ---
 caption:  # what displays in the portfolio grid:
   title: Conferences & colloquia
-  subtitle: Find out more
+  # subtitle: Find out more
   thumbnail: assets/img/portfolio/4-conferences-colloquia.jpg
 
 title: Conferences & colloquia

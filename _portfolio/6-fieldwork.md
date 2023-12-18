@@ -1,7 +1,7 @@
 ---
 caption:  # what displays in the portfolio grid:
   title: Field work
-  subtitle: Find out more
+  # subtitle: Find out more
   thumbnail: assets/img/portfolio/6-fieldwork.jpg
 
 title: Field work

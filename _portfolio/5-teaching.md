@@ -1,7 +1,7 @@
 ---
 caption:  # what displays in the portfolio grid:
   title: Teaching
-  subtitle: Find out more
+  # subtitle: Find out more
   thumbnail: assets/img/portfolio/5-teaching.jpg
 
 title: Teaching
