@@ -3,8 +3,8 @@
 - [x] Font-awesome glyphs not rendering in Safari/IOS
 - [x] Social links
 - [ ] Modal header excess
-- [ ] Watch more
 - [ ] Resume modals
+- [ ] Watch more
 - [ ] Custom domain
   - [ ] www. cname
 - [ ] Readme
