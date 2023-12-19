@@ -1,7 +1,7 @@
 ### Backlog
 
 - [x] Font-awesome glyphs not rendering in Safari/IOS
-- [ ] Social links
+- [x] Social links
 - [ ] Modal header excess
 - [ ] Watch more
 - [ ] Resume modals

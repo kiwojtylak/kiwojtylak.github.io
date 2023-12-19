@@ -1,4 +1,5 @@
 *.gem
+*.iml
 .bundle
 .idea
 .jekyll-cache

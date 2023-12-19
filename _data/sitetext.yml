@@ -176,19 +176,19 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://www.instagram.com/kwojtylak
-        icon: "fab fa-instagram"
+        icon: "fa-brands fa-instagram"
       - url: https://orcid.org/0000-0002-0396-2294
-        icon: "fab fa-orcid"
+        icon: "fa-brands fa-orcid"
       - url: https://twitter.com/kiwojtylak
-        icon: "fab fa-twitter"
+        icon: "fa-brands fa-twitter"
       #- url: https://research.jcu.edu.au/portfolio/katarzyna.wojtylak
       #  icon: "fab fa-jcu"
       #- url: https://culturalcontinuity.al.uw.edu.pl/team/katarzyna-wojtylak
       #  icon: "fab fa-uw"
       - url: https://uw.academia.edu/KatarzynaIKasiaWojtylak
-        icon: "fab fa-building-columns"
+        icon: "fa-solid fa-building-columns"
       - url: https://www.researchgate.net/profile/Katarzyna-Wojtylak
-        icon: "fab fa-researchgate"
+        icon: "fa-brands fa-researchgate"
       #- url: https://scholar.google.com/citations?user=h_jOsjsAAAAJ
       #  icon: "fab fa-google-scholar"
 
