@@ -12,19 +12,22 @@ title: Publications
 
 <p class="item-intro text-muted">Co-edited volumes</p>
 
-|                                                                                                                                                                                                                     |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Wojtylak, K.I. & Shehu, A. (Eds.). (in preparation, proposal accepted). Embodiment in Cross-Linguistic Studies: The mouth. Leiden: Brill.                                                                         |
-| - Wojtylak, K.I. and Treis, Y. (Eds.) (2018). On the Expression of Comparison: Contributions to the typology of comparative constructions from lesser-known languages. Special issue of Linguistic Discovery 16(1). |
-| - Wojtylak, K.I. and Simon Overall (Eds.). (2018). Nominalization: A view from Northwest Amazonia. STUF (71)1.                                                                                                      |
-|                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                   |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I. & Shehu, A. (Eds.). (in preparation, proposal accepted). Embodiment in Cross-Linguistic Studies: The mouth. Leiden: Brill.                                                                         |
+|                                                                                                                                                                                                                   |
+| Wojtylak, K.I. and Treis, Y. (Eds.) (2018). On the Expression of Comparison: Contributions to the typology of comparative constructions from lesser-known languages. Special issue of Linguistic Discovery 16(1). |
+|                                                                                                                                                                                                                   |
+| Wojtylak, K.I. and Overall, S. (Eds.). (2018). Nominalization: A view from Northwest Amazonia. STUF (71)1.                                                                                                        |
+|                                                                                                                                                                                                                   |
 
 <p class="item-intro text-muted">Monographs</p>
 
 |                                                                                                                                      |
 |:-------------------------------------------------------------------------------------------------------------------------------------|
-| - Wojtylak, K.I. (2021). A grammar of Murui (Bue), a Witotoan language from Northwest Amazonia. Leiden: Brill.                         |
-| - Wojtylak, K.I. (2017). A grammar of Murui (Bue), a Witotoan language of Northwest Amazonia. PhD dissertation. James Cook University. |
+| Wojtylak, K.I. (2021). A grammar of Murui (Bue), a Witotoan language from Northwest Amazonia. Leiden: Brill.                         |
+|                                                                                                                                      |
+| Wojtylak, K.I. (2017). A grammar of Murui (Bue), a Witotoan language of Northwest Amazonia. PhD dissertation. James Cook University. |
 |                                                                                                                                      |
 
 <p class="item-intro text-muted">Articles and book chapters</p>
@@ -76,10 +79,13 @@ title: Publications
 
 <p class="item-intro text-muted">Non-traditional outputs</p>
 
-|                                                                                                                                                                                            |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Wojtylak, K.I. (2019). Murui oral literature - Multimedia database. The Firebird Foundation for Anthropological Research Foundation.                                                     |
-| - Wojtylak, K.I., Agga Arteagga, W.A., and Lupinski K.T. (2017). Kaɨ Ruakɨ - Murui songs. CD. Cairns: Firebird, Anthropological Laboratory for Tropical Audiovisual Research (ALTAR), JCU. |
-| - Wojtylak, K.I. and Lupinski K.T. (2017). Kai Uai - Our Words - A documentary of the Murui of Tercera India. Full ethnographic documentary. Cairns: ALTAR, JCU.                           |
-| - Wojtylak, K.I. and Lupinski K.T. (2016). Murui Filmmakers. Short ethnographic documentary. Cairns: ALTAR, JCU.                                                                           |
-|                                                                                                                                                                                            |
+|                                                                                                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I. (2019). Murui oral literature - Multimedia database. The Firebird Foundation for Anthropological Research Foundation.                                                     |
+|                                                                                                                                                                                          |
+| Wojtylak, K.I., Agga Arteagga, W.A., and Lupinski K.T. (2017). Kaɨ Ruakɨ - Murui songs. CD. Cairns: Firebird, Anthropological Laboratory for Tropical Audiovisual Research (ALTAR), JCU. |
+|                                                                                                                                                                                          |
+| Wojtylak, K.I. and Lupinski K.T. (2017). Kai Uai - Our Words - A documentary of the Murui of Tercera India. Full ethnographic documentary. Cairns: ALTAR, JCU.                           |
+|                                                                                                                                                                                          |
+| Wojtylak, K.I. and Lupinski K.T. (2016). Murui Filmmakers. Short ethnographic documentary. Cairns: ALTAR, JCU.                                                                           |
+|                                                                                                                                                                                          |
