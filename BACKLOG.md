@@ -5,7 +5,8 @@
 - [x] @Diego: Modal header excess
 - [x] @Diego: Resume modals content
 - [x] @Diego: Image performance
-- [ ] @Kasia: Review portfolio contents & spacing homogeneity
+- [x] @Kasia: Review portfolio contents & spacing homogeneity
+- [ ] @Diego: quoting inconsistency
 - [ ] @Diego: Watch more
 - [ ] @Kasia: Better portfolio images?
 - [ ] @Diego: Custom domain
