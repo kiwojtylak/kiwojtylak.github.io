@@ -186,7 +186,7 @@ en: &DEFAULT_EN
       #- url: https://culturalcontinuity.al.uw.edu.pl/team/katarzyna-wojtylak
       #  icon: "fab fa-uw"
       - url: https://uw.academia.edu/KatarzynaIKasiaWojtylak
-        icon: "fab fa-academia"
+        icon: "fab fa-building-columns"
       - url: https://www.researchgate.net/profile/Katarzyna-Wojtylak
         icon: "fab fa-researchgate"
       #- url: https://scholar.google.com/citations?user=h_jOsjsAAAAJ
