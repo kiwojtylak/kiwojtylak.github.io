@@ -14,6 +14,7 @@
 
       <div class="row text-center">
       {% for service in site.data.sitetext[site.locale].services.list %}
+        {% if service.embed %}
         <div class="col-md-4">
           <!--
           <span class="fa-stack fa-4x">
@@ -23,7 +24,7 @@
           -->
           <div class="youtube-container">
             <iframe
-              src="https://www.youtube.com/embed/{{service.video}}"
+              src="https://www.youtube.com/embed/{{service.embed}}"
               width="350" height="300"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen>
@@ -34,8 +35,17 @@
           <div class="text-muted">{{ service.desc | markdownify }}</div>
           {% endif %}
         </div>
+        {% endif %}
       {% endfor %}
       </div>
+
+      <!--<div class="row text-center">
+      {% for service in site.data.sitetext[site.locale].services.list %}
+        {% if service.link %}
+          some links
+        {% endif %}
+      {% endfor %}
+      </div>-->
 
     </div>
   </section>
