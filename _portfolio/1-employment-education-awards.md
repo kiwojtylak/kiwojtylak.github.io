@@ -45,53 +45,60 @@ title: Employment, education and awards
 
 <p class="item-intro text-muted">Awards</p>
 
-1.  September 2018: Winner of the Visualise Your Research (People's Choice) Award, James Cook University.  
-    <i class="fab fa-youtube"></i> [A Treasure of the Amazon - Dr Kasia Wojtylak](https://www.youtube.com/watch?v=qDSH4EAx_8o)
+1.  September 2018: Winner of the Visualise Your Research (People's Choice) Award, James Cook University. 
+    <p style="text-align: center;">
+        <i class="fab fa-youtube"></i> 
+        <a href="https://www.youtube.com/watch?v=qDSH4EAx_8o" target="_blank">A Treasure of the Amazon - Dr Kasia Wojtylak</a>
+    </p>
 
 2.  March 2018: Medal for Excellence for a Doctoral Research Thesis 2017 at JCU, 13 Mar 2018, JCU Cairns.  
 
 3.  November 2017: PhD thesis summa cum laude distinction. JCU Research Education Committee, JCU Cairns.  
 
-4.  May 2017: Higher Degree Research Enhancement Scheme (HDRES). Support grant. JCU Cairns.  
+4.  May 2017: Higher Degree Research Enhancement Scheme (HDRES). Support grant, JCU Cairns.  
 
 5.  June 2016: With Kristian Lupinski. Official Selection for the Understory Film Festival, Cairns, Australia.  
 
 6.  December 2015: Photo competition. Official section for James Cook University Calendar 2016.  
 
-7.  September 2014: JCU Finalist of the ‘Three Minutes Thesis competition’ (3MT). JCU Townsville: https://www.youtube.com/watch?v=ZTh8qUVbOyM  
+7.  September 2014: JCU Finalist of the ‘Three Minutes Thesis competition’ (3MT). JCU Townsville.  
+    <p style="text-align: center;">
+        <i class="fab fa-youtube"></i> 
+        <a href="https://www.youtube.com/watch?v=ZTh8qUVbOyM" target="_blank">2014 3MT Finals - Kasia Wojtylak</a>
+    </p>
 
-8.  August 2013: Best Research Master Thesis of 2011-2012 Finalist (VU University Amsterdam, Faculty of Arts). Amsterdam, the Netherlands.  
+8.  August 2013: Best Research Master Thesis of 2011-2012 Finalist (VU University Amsterdam, Faculty of Arts). Amsterdam, The Netherlands.  
 
-9.  May 2010: VU University Amsterdam Funds Facultaire Beaurs. Research Grant. Amsterdam, the Netherlands.  
+9.  May 2010: VU University Amsterdam Funds Facultaire Beaurs. Research Grant. Amsterdam, The Netherlands.  
 
-10. April 2010: VU University Amsterdam Faculty of Arts Fondsendesk Beurs. Research Grant. Amsterdam, the Netherlands.  
+10. April 2010: VU University Amsterdam Faculty of Arts Fondsendesk Beurs. Research Grant. Amsterdam, The Netherlands.  
 
-11. September 2007-12 Dienst Uitvoering Onderwijs. Dutch Student Scholarship Program. Amsterdam, the Netherlands.  
+11. September 2007-12 Dienst Uitvoering Onderwijs. Dutch Student Scholarship Program. Amsterdam, The Netherlands.  
 
 <p class="item-intro text-muted">Participation in trainings and courses</p>
 
-1.  6-hour course “Communication in leading and managing international research teams”, University of Warsaw, 30-31 Jan 2024.  
+1.  6H course “Communication in leading and managing international research teams”, University of Warsaw, January 30th-31st  2024.  
 
-2.  3-hour course “Researcher and media”, University of Warsaw, 16 Jan 2024.  
+2.  3H course “Researcher and media”, University of Warsaw, January 16th 2024.  
 
-3.  3-hour course “Research data management”, University of Warsaw, 12 Jan 2024.  
+3.  3H course “Research data management”, University of Warsaw, January 12th 2024.  
 
-4.  3-hour course “Research data management”, University of Warsaw, 12 Jan 2024.  
+4.  3H course “Research data management”, University of Warsaw, January 12th 2024.  
 
-5.  3-hour course “LaTeX”, University of Warsaw, 12 Jan 2024.  
+5.  3H course “LaTeX”, University of Warsaw, January 12th 2024.  
 
-6.  3-hour course “Using AI in research”, University of Warsaw, 10 Jan 2024.  
+6.  3H course “Using AI in research”, University of Warsaw, January 10th 2024.  
 
-7.  3-hour course “Scopus and the right selection of journals”, University of Warsaw, 9 Jan 2024.  
+7.  3H course “Scopus and the right selection of journals”, University of Warsaw, January 9th 2024.  
 
-8.  3-hour course “Habilitation”, University of Warsaw, 8 Jan 2024.  
+8.  3H course “Habilitation”, University of Warsaw, January 8th 2024.  
 
-9.  6-hour course “Building and leading international teams of researchers”, University of Warsaw, 12-13 Dec 2023.  
+9.  6H course “Building and leading international teams of researchers”, University of Warsaw, December 12th-13th 2023.  
 
-10.  6-hour course “Critical assessment, selection of journals and repositories”, University of Warsaw, 7-8 Dec 2023.  
+10.  6H course “Critical assessment, selection of journals and repositories”, University of Warsaw, December 7th-8th 2023.  
 
-11.  3-hour course “Predatory journals”, University of Warsaw, 6 Dec 2023.  
+11.  3H course “Predatory journals”, University of Warsaw, December 6th 2023.  
 
-12.  3-hour course “Researcher’s career path and HE grants selection”, University of Warsaw, 30 Nov 2023.  
+12.  3H course “Researcher’s career path and HE grants selection”, University of Warsaw, November 30th 2023.  
 
-13.  30-hour course towards the Certificate Higher Education Bavaria (accreditation to teach at the tertiary level in Germany, Zertifikat Hochschullehre Bayern), University of Regensburg (Dec 2018)  
+13.  30H course towards the Certificate Higher Education Bavaria (accreditation to teach at the tertiary level in Germany, Zertifikat Hochschullehre Bayern), University of Regensburg, December 2018  
