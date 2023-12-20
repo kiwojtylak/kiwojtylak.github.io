@@ -22,7 +22,7 @@
             <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
           </span>
           -->
-          <div class="youtube-container">
+          <div>
             <iframe
               src="https://www.youtube.com/embed/{{service.embed}}"
               width="350" height="300"
@@ -39,13 +39,22 @@
       {% endfor %}
       </div>
 
-      <!--<div class="row text-center">
-      {% for service in site.data.sitetext[site.locale].services.list %}
-        {% if service.link %}
-          some links
-        {% endif %}
-      {% endfor %}
-      </div>-->
+      <h4 style="text-align: center; margin-top: 50px;">Talks</h4>
+      <div class="row text-center" style="margin-top: 20px;">
+        {% for service in site.data.sitetext[site.locale].services.list %}
+          {% if service.link %}
+          <div class="col-md-3">
+              <a href="https://www.youtube.com/watch?v={{ service.link }}" target="_blank">
+                <span class="fa-stack fa-3x">
+                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                  <i class="fa {{ service.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <p style="margin-top: 16px;">{{ service.title }}</p>
+              </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+      </div>
 
     </div>
   </section>

@@ -105,16 +105,16 @@ en: &DEFAULT_EN
       # links
       - title: "Linguistic Research Skills: Experiences from the Amazon"
         link: "zaESq6uz0c0"
-        icon: fa-brands fa-youtube
+        icon: fa-youtube
       - title: "Commands in Murui: Imperative and imperative strategies"
         link: "MwOMmOwYBgk"
-        icon: fa-brands fa-youtube
+        icon: fa-youtube
       - title: "Confirmation Seminar PhD thesis of Kasia Wojtylak"
         link: "q-KrTNrNlVE"
-        icon: fa-brands fa-youtube
+        icon: fa-youtube
       - title: " Pre-completion Seminar PhD thesis of Kasia Wojtylak"
         link: "0b6qqNyIXNk"
-        icon: fa-brands fa-youtube
+        icon: fa-youtube
 
 #  clients:
 #    section: clients

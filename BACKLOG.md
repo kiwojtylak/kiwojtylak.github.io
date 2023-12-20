@@ -11,7 +11,7 @@
 - [x] @Kasia: Better portfolio images?
 - [x] @Diego: quoting inconsistency
 - [x] @Diego: italics
-- [ ] @Diego: Watch more
+- [x] @Diego: Watch more
 - [ ] @Diego: Custom domain
   - [ ] www. cname
 - [ ] @Diego: GA
