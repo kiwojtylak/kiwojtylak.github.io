@@ -189,7 +189,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://www.instagram.com/kwojtylak
+      - url: https://www.instagram.com/kasiawojtylak/
         icon: "fa-brands fa-instagram"
       #- url: https://research.jcu.edu.au/portfolio/katarzyna.wojtylak
       #  icon: "fab fa-jcu"

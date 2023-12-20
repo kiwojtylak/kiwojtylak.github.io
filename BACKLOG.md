@@ -6,11 +6,12 @@
 - [x] @Diego: Resume modals content
 - [x] @Diego: Image performance
 - [x] @Kasia: Review portfolio contents & spacing homogeneity
-- [ ] @Diego: Header onto face
-- [ ] @Diego: quoting inconsistency
-- [ ] @Diego: wrong Insta
+- [x] @Diego: Header onto face
+- [x] @Diego: wrong Insta
+- [x] @Kasia: Better portfolio images?
+- [x] @Diego: quoting inconsistency
+- [x] @Diego: italics
 - [ ] @Diego: Watch more
-- [ ] @Kasia: Better portfolio images?
 - [ ] @Diego: Custom domain
   - [ ] www. cname
 - [ ] @Diego: GA
