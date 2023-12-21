@@ -12,9 +12,19 @@
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
             {% if link.url %}
-            <a href="{{ link.url }}" target="_blank">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
+              {% if link.icon == "fa-brands fa-orcid" and page.is404page %}
+              <!-- Happy Easter -->
+              <a href="assets/img/nosia.png" target="_blank">
+                <i class="fa-brands fa-n"></i>
+              </a>
+              {% else %}
+              <a href="{{ link.url }}" target="_blank">
+                {% if link.icon %}
+                  <i class="{{ link.icon }}"></i>
+                {% endif %}
+              </a>
+              {% endif %}
+
             {% endif %}
           </li>
           {% endfor %}
