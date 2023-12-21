@@ -14,10 +14,10 @@
 - [x] @Diego: watch more
 - [x] @Diego: landscape bug
 - [x] @Ahsan: mobile devices
-- [ ] @Diego: easter egg
 - [ ] @Diego: custom domain
   - [ ] www. cname
 - [ ] @Diego: GA
+- [ ] @Diego: easter egg
 - [ ] @Diego: readme
 - [ ] @Diego: CI badge
 - [ ] @Kasia: I18n
