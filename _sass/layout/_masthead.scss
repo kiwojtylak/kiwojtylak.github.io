@@ -49,3 +49,20 @@ header.masthead {
     }
   }
 }
+@media only screen and (max-width:900px) and (orientation:landscape) {
+  header.masthead {
+    .intro-text {
+      padding-top: 170px;
+      padding-bottom: 100px;
+      .intro-heading {
+        font-size: 45px;
+        font-weight: 700;
+        margin-bottom: 20px;
+        @include heading-font;
+        p {
+          color: white;
+        }
+      }
+    }
+  }
+}
