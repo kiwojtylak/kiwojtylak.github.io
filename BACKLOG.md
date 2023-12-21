@@ -1,20 +1,21 @@
 ### Backlog
 
-- [x] @Diego: Font-awesome glyphs not rendering in Safari/IOS
-- [x] @Diego: Social links
-- [x] @Diego: Modal header excess
-- [x] @Diego: Resume modals content
-- [x] @Diego: Image performance
-- [x] @Kasia: Review portfolio contents & spacing homogeneity
-- [x] @Diego: Header onto face
+- [x] @Diego: font-awesome glyphs not rendering in Safari/IOS
+- [x] @Diego: social links
+- [x] @Diego: modal header excess
+- [x] @Diego: resume modals content
+- [x] @Diego: image performance
+- [x] @Kasia: review portfolio contents & spacing homogeneity
+- [x] @Diego: header onto face
 - [x] @Diego: wrong Insta
-- [x] @Kasia: Better portfolio images?
+- [x] @Kasia: better portfolio images?
 - [x] @Diego: quoting inconsistency
 - [x] @Diego: italics
-- [x] @Diego: Watch more
-- [ ] @Diego: Custom domain
+- [x] @Diego: watch more
+- [x] @Diego: landscape bug
+- [ ] @Diego: custom domain
   - [ ] www. cname
 - [ ] @Diego: GA
-- [ ] @Diego: Readme
+- [ ] @Diego: readme
 - [ ] @Diego: CI badge
 - [ ] @Kasia: I18n
