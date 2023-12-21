@@ -49,7 +49,12 @@ header.masthead {
     }
   }
 }
-@media only screen and (max-width:900px) and (orientation:landscape) {
+@media only screen and (max-width:932px) and (orientation:landscape) {
+  .navbar {
+    div {
+      margin-left: 0;
+    }
+  }
   header.masthead {
     .intro-text {
       padding-top: 120px;
@@ -57,10 +62,11 @@ header.masthead {
       .intro-heading {
         font-size: 45px;
         font-weight: 700;
-        margin-bottom: 20px;
+        margin-bottom: 0;
         @include heading-font;
         p {
           color: white;
+          margin-bottom: 0;
         }
       }
     }
