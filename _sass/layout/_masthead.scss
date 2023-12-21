@@ -3,7 +3,7 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("#{$header-image}");
-  height: 100vh;
+  height: 105vh;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -49,16 +49,17 @@ header.masthead {
     }
   }
 }
-@media only screen and (max-width:932px) and (orientation:landscape) {
+@media only screen and (max-width: 932px) and (orientation: landscape) {
   .navbar {
     div {
       margin-left: 0;
     }
   }
   header.masthead {
+    display: flex;
+    align-items: center;
     .intro-text {
-      padding-top: 120px;
-      padding-bottom: 100px;
+      padding: 0;
       .intro-heading {
         font-size: 45px;
         font-weight: 700;
@@ -69,6 +70,18 @@ header.masthead {
           margin-bottom: 0;
         }
       }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header.masthead {
+    display: flex;
+    align-items: center;
+    height: 110vh;
+
+    .intro-text {
+      padding: 0;
     }
   }
 }

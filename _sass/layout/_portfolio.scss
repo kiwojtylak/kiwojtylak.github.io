@@ -4,7 +4,7 @@
     right: 0;
     margin: 0 0 15px;
     .portfolio-link {
-      border: 5px solid #FED136;
+      border: 5px solid #fed136;
       position: relative;
       display: block;
       max-width: 400px;
@@ -144,6 +144,30 @@
         transform: rotate(90deg);
         background-color: $gray-900;
       }
+    }
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .portfolio-modal {
+    .modal-content {
+      padding-top: 80px;
+      padding-bottom: 50px;
+    }
+    .close-modal {
+      right: 0;
+      .lr {
+        height: 40px;
+        .rl {
+          height: 40px;
+        }
+      }
+    }
+
+    .col-lg-8 {
+      max-width: 100% !important;
+      padding: 0;
+      margin: 0;
     }
   }
 }

@@ -51,6 +51,21 @@ h6 {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .page-section {
+    padding: 50px 0;
+  }
+}
+
+@media screen and (max-width: 428px) {
+  .page-section {
+    padding: 30px 0;
+  }
+  #about {
+    padding-top: 60px;
+  }
+}
+
 // Highlight color customization
 ::-moz-selection {
   background: $primary;
