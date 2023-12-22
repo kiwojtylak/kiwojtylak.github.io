@@ -11,8 +11,15 @@ The structure for the currently configured theme is as follows.
 Original files have been renamed to start with underscore (ie: README.md to _README.md) instead of deleting or editing on top.
 
 README.me: this file
-BACKLOG.md: backlog of the latest tasks and bugfixes
-_config.yml: basic site attributes, like the tittle (displayed in several places), contact e-mail, whether the portfolio section is displayed, Google Analytics tracking code
+
+BACKLOG.md: backlog of the latest tasks and bugfixes  
+
+_config.yml: basic site attributes, like the currently configured theme, the hosting URL, tittle (displayed in several places), contact e-mail, description, author, selected locale, Google Analytics tracking code, or whether the portfolio section is displayed  
+
+legal.md: markdown page for the "Privacy" section  
+
+404.md: markdown page to display if a page is not found  
+
 
 single files
 folders
