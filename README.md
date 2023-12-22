@@ -56,10 +56,10 @@ Changes done locally can be tested by running generating and serving the site lo
 For the site to run locally, Jekyll and Bundle need to be installed on the machine.
 Ready to ship changes, can be commited & pushed to the remote Github repository either by the correspondent IDE tool, or by git commands on the command-line.  
 
+For small changes, it is also possible to edit and commit the files from the Github web interface.  
 
-editing form gh web
-
-
+## Publishing changes
 gh action
 
+## Custom domain
 custom domain
