@@ -26,7 +26,7 @@ author     : Kasia Wojtylak
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-HK1BRD3C8P
 
 collections:
   portfolio:
