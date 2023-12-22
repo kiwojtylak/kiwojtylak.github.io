@@ -37,6 +37,10 @@ run.sh: this script allows to run the site for local development
 
 _data/
 
+_includes/
+
+_layouts/
+
 _portfolio/  
 
 _sass/  
