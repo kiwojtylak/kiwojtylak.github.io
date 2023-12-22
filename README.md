@@ -1,17 +1,19 @@
-## kiwojtylak.github.io
+# kiwojtylak.github.io
 kiwojtylak.github.io is the public website of Katarzyna (Kasia) I. Wojtylak
 
-# How is this site built
+## How is this site built
 This site is hosted on Gitlab Pages, and built using one of the Jekyll community templates. Jekyll allows to generate a static website, from markdown pages and SCSS.  
 The main branch of the repository remains blank, and the repository is organized around different branches, each for a different Jekyll theme.
 The site is published from the corresponding theme branch.
 
-# Theme structure
+## Theme structure
 The structure for the currently configured theme is as follows.
 Original files have been renamed to start with underscore (ie: README.md to _README.md) instead of deleting or editing on top.
 
-renames backup
-config
+README.me: this file
+BACKLOG.md: backlog of the latest tasks and bugfixes
+_config.yml: basic site attributes, like the tittle (displayed in several places), contact e-mail, whether the portfolio section is displayed, Google Analytics tracking code
+
 single files
 folders
 
