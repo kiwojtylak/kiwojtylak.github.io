@@ -15,9 +15,9 @@
 - [x] @Diego: landscape bug
 - [x] @Ahsan: mobile devices
 - [x] @Diego: easter egg
-- [ ] @Diego: custom domain
-  - [ ] www. cname
-- [ ] @Diego: GA
+- [x] @Diego: custom domain
+  - [x] www. cname
+- [x] @Diego: GA
 - [ ] @Diego: readme
 - [ ] @Diego: CI badge
 - [ ] @Kasia: I18n
