@@ -82,33 +82,27 @@ Editing from local environment facilitates development with all the convenience 
 
 After cloning the repository locally:
 ```bash
-# Clones the remote GitHub repository to the local machine
-git clone https://github.com/kiwojtylak/kiwojtylak.github.io
+git clone https://github.com/kiwojtylak/kiwojtylak.github.io  # Clones the remote GitHub repository to the local machine
 ```
 or if the repository had already been cloned:
 ```bash
-# Fetches the latest changes
-git pull
+git pull  # Fetches the latest changes
 ```
 
 ```bash
-# Shows all the existing branches
-git branch
+git branch  # Shows all the existing branches
 ```
 ```bash
-# Switches the codebase to a specific branch
-git checkout branch-name
+git checkout branch-name  # Switches the codebase to a specific branch
 ```
 Changes done locally can be tested by running and serving the site locally, using the [run.sh](/run.sh) script at the parent folder.  
 For the site to run locally, `Jekyll` and `Bundle` need to be installed on the machine.  
 Ready-to-ship changes, can be committed & pushed to the remote GitHub repository either by the correspondent IDE tool, or by `git` commands on the command-line:
 ```bash
-# Commits all changes
-git commit -am "changes description"
+git commit -am "changes description"  # Commits all changes
 ```
 ```bash
-# Pushes the changes to the GitHub remote repository
-git push
+git push  # Pushes the changes to the GitHub remote repository
 ```
 
 For small changes, it is also possible to edit and commit the files from the **GitHub web interface** itself.  
