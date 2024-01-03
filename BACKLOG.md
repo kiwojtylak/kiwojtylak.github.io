@@ -14,7 +14,7 @@
 - [x] @Diego: watch more
 - [x] @Diego: landscape bug
 - [x] @Ahsan: mobile devices
-- [x] @Diego: easter egg
+- [x] @Diego: easter egg Nosia
 - [x] @Diego: custom domain
   - [x] www. cname
 - [x] @Diego: GA

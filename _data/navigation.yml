@@ -52,7 +52,9 @@ en-AU:
 #  <<: *DEFAULT_ES
 #es-CO:
 #  <<: *DEFAULT_ES
-#
+#es-AR:
+#  <<: *DEFAULT_ES
+
 ## Deutsch
 ## -----------------
 #de: &DEFAULT_DE

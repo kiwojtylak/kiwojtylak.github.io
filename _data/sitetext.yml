@@ -205,7 +205,6 @@ en: &DEFAULT_EN
       #  icon: "fab fa-google-scholar"
       - url: https://orcid.org/0000-0002-0396-2294
         icon: "fa-brands fa-orcid"
-
 en-US:
   <<: *DEFAULT_EN
 en-CA:
