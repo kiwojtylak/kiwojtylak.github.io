@@ -14,7 +14,7 @@ title: Publications
 
 |                                                                                                                                                                                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wojtylak, K.I. & Shehu, A. (Eds.). (in preparation, proposal accepted). ‘Embodiment in Cross-Linguistic Studies: The mouth’. Leiden: Brill.                                                                         |
+| Wojtylak, K. I., & Dolinska, J. (Eds.). (In preparation - to appear 2025). Embodiment in Cross-Linguistic Studies: The 'Mouth'. Leiden: Brill.                                                                      |
 |                                                                                                                                                                                                                     |
 | Wojtylak, K.I. and Treis, Y. (Eds.) (2018). ‘On the Expression of Comparison: Contributions to the typology of comparative constructions from lesser-known languages’. Special issue of Linguistic Discovery 16(1). |
 |                                                                                                                                                                                                                     |
