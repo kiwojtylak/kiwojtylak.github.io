@@ -10,6 +10,72 @@ title: Publications
 # alt: Publications
 ---
 
+NEW
+
+<p class="item-intro text-muted">Co-edited Volumes</p>
+
+|                                                                                                                                                                                                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K. I., & Dolinska, J. (Eds.). (In preparation - to appear 2025). *Embodiment in Cross-Linguistic Studies: The 'Mouth'*. Leiden: Brill.                                                                      |
+| Wojtylak, K.I., & Treis, Y. (Eds.). (2018). *On the Expression of Comparison: Contributions to the typology of comparative constructions from lesser-known languages*. Special issue of Linguistic Discovery 16(1). |
+| Wojtylak, K.I., & Overall, S. (Eds.). (2018). *Nominalization: A view from Northwest Amazonia*. STUF - Language Typology and Universals 71(1).                                                                      |
+
+<p class="item-intro text-muted">Monographs</p>
+
+|                                                                                                                                                                                                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I. (In preparation, under review). *Social limits of languages: The dynamics of contact in Northwest Amazonia*. Cambridge Approaches to Language Contact Series. Cambridge: Cambridge University Press.  |
+| Wojtylak, K.I. (2021). *A grammar of Murui (Bue), a Witotoan language from Northwest Amazonia*. Leiden: Brill.                                                                                                      |
+| Wojtylak, K.I. (2017). *A grammar of Murui (Bue), a Witotoan language of Northwest Amazonia*. PhD dissertation. James Cook University.                                                                               |
+
+<p class="item-intro text-muted">Articles and Book Chapters</p>
+
+|                                                                                                                                                                                                                                                                                                                                           |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I. (In preparation). *Sustaining Work and Social Practices Among the Caquetá-Putumayo Peoples of the Colombian Amazon*. In F. K. Ameka & D. Hill (Eds.), Language, Work and Social Practices. Berlin: De Gruyter Mouton.                                                                                                    |
+| Wojtylak, K.I. (In preparation - to appear 2025). *Polityki językowe w dorzeczu Caquetá-Putumayo: Analiza wspólnot Witotan, Boran i Andoke*. Kraków: Uniwersytet Jagielloński.                                                                                                                     |
+| Wojtylak, K.I., Olko, J., Otwinowska-Kasztelanic, A., & Dolinska, J. (In preparation - to appear 2025). *Ecology of diversities: State of the art*. Cambridge Elements in Linguistic Diversity. Cambridge: Cambridge University Press.                                                             |
+| Wojtylak, K.I., & Dolinska, J. (In preparation - to appear 2025). *Introduction - Cultural Conceptualizations of the Mouth across Languages and Cultures*. In K.I. Wojtylak & J. Dolinska (Eds.), Mouth: Embodiment in Cross-Linguistic Studies. Leiden: Brill.                                                                            |
+| Wojtylak, K.I. (In preparation - to appear 2025). *In the Mouth of Language: Witotoan Classifier Dynamics in Northwest Amazonia*. In K.I. Wojtylak & J. Dolinska (Eds.), Mouth: Embodiment in Cross-Linguistic Studies. Leiden: Brill.                                                             |
+| Wojtylak, K.I. (Submitted for review September 2024). *Studying linguistic diversity in the context of “limited” linguistic descriptions: The case of the “Witoto” language from the Colombian Amazon*. Language in Society.                                                                        |
+| Wojtylak, K.I., & Echeverri, J.A. (Submitted for review September 2024). *Towards a reconstruction of the pronominal system of Proto-Witotoan from the Northwest Amazon*. Journal of Historical Linguistics.                                                                                       |
+| Wojtylak, K.I., & Menschel, J. (Accepted, to appear 2026). *Differential Object Marking in Caquetá-Putumayo languages: An areal perspective of Northwest Amazonia*. Journal of Language Contact.                                                                                                  |
+| Echeverri, J.A., Fagua Rincón, D., & Wojtylak, K.I. (Accepted, to appear 2026). *The Witotoan language family*. In P. Epps & L. Michael (Eds.), International Handbook of Amazonian Languages. Berlin: De Gruyter Mouton.                                                                           |
+| Wojtylak, K.I. (2022). *At the Heart of the Murui*. In A. Storch & R. M. W. Dixon (Eds.), The Art of Language. Brill's Studies in Language, Cognition and Culture, 32. Leiden: Brill.                                                                                                            |
+| Wojtylak, K.I. (2021). *Language contact and change: The case of Muruiñoz from northwest Amazonia*. Italian Journal of Linguistics, 33(1), 135-156.                                                                                                                                            |
+| Guerrero Beltrán, D.F., & Wojtylak, K.I. (2021). *Through space, relations, and thoughts: The system of postpositions in Karijona (Cariban, Amazonia)*. Studies in Language, 1-35.                                                                                                             |
+| Wojtylak, K.I. (2020). *The phonological and grammatical status of Murui ‘word’*. In A.Y. Aikhenvald, R.M.W. Dixon, & N.M. White (Eds.), Phonological and Grammatical Word: A Cross-linguistic Typology (pp. 121-146). Oxford: Oxford University Press.                                         |
+| Wojtylak, K.I. (2020). *Multifaceted body parts in Murui: A case study from Northwest Amazonia*. In I. Kraska-Szlenk (Ed.), Body Part Terms in Conceptualization and Language Usage (pp. 170-190). Amsterdam: John Benjamins.                                                                                                         |
+| Wojtylak, K.I. (2019). *Talking to the spirits: A jungle-at-night register of the Murui people from Northwest Amazon*. Special issue of journal The Mouth 4, edited by A.Y. Aikhenvald & A. Storch, 78-90.                                                                                      |
+
+<p class="item-intro text-muted">Non-Traditional Outputs</p>
+
+|                                                                                                                                                                                            |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I., Agga Arteagga, W.A., & Lupinski, K.T. (2017). *Kaɨ Ruakɨ - Murui songs*. CD. Cairns: Firebird, ALTAR, JCU.                                                                 |
+| Wojtylak, K.I., & Lupinski, K.T. (2017). *Kai Uai - Our Words: A documentary of the Murui of Tercera India*. Full ethnographic documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=YnhI-6yfYLk). |
+| Wojtylak, K.I., & Lupinski, K.T. (2016). *Murui Filmmakers*. Short ethnographic documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=SJT68R4QUw0).                                                   |
+
+
+
+<p class="item-intro text-muted">Databases</p>
+
+|                                                                                                                                                                                                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I. (2025). *Languages of Caquetá-Putumayo database*. Repositorium UW (in process of submission).                                                                                                        |
+| Wojtylak, K.I. (2025). *Languages of Caquetá-Putumayo River Basin*. GitHub. [GitHub link](https://github.com/kiwojtylak/languages-of-caqueta-putumayo-river-basins).                                                |
+| Wojtylak, K.I. (2024). *Sociolinguistics of Caquetá-Putumayo River Basins Dataset*. Qualitative Data Archive, Repozytorium Danych Społecznych. [DOI link](https://doi.org/10.60894/BG09NP).                         |
+| Wojtylak, K.I., & Menschel, J. (2024). *Nonuya Collection*. The Language Archive, MPI-DOBES. [Collection link](https://hdl.handle.net/1839/bd265ed9-8b65-4807-828b-0e19ed4fda28).                                   |
+| Wojtylak, K.I. (2019). *Murui oral literature - Multimedia database*. The Firebird Foundation for Anthropological Research Foundation.                                                                              |
+| Wojtylak, K.I. (2016). *Murui Songs in collection "Gente del Centro - People of the Center."* The Language Archive, MPI-DOBES. [Collection link](https://hdl.handle.net/1839/22c25d6c-36ba-45eb-8f12-e87cde88aec2).  |
+| Wojtylak, K.I. (2013-2016). *Colección K. Wojtylak in collection "Gente del Centro - People of the Center."* The Language Archive, MPI-DOBES. [Collection link](https://hdl.handle.net/1839/4a7957eb-2225-4fbc-a2f9-76ae0a8b387f). |
+
+
+
+OLD
+
+
+
 <p class="item-intro text-muted">Co-edited volumes</p>
 
 |                                                                                                                                                                                                                     |
