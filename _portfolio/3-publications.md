@@ -12,10 +12,11 @@ title: Publications
 
 <p class="item-intro text-muted">Co-edited Volumes</p>
 
-|                                                                                                                                                                                                                     |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wojtylak, K. I., & Dolinska, J. (Eds.). (In preparation - to appear 2025). *Embodiment in Cross-Linguistic Studies: The 'Mouth'*. Leiden: Brill.                                                                    |
-| Wojtylak, K.I., & Overall, S. (Eds.). (2018). *Nominalization: A view from Northwest Amazonia*. STUF - Language Typology and Universals 71(1).                                                                      |
+|                                                                                                                                                                                                                                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I., & Dolinska, J. (Eds.). (In preparation - to appear 2025). *Embodiment in Cross-Linguistic Studies: The 'Mouth'*. Leiden: Brill.                                                                                                                    |
+| Wojtylak, K.I., & Menschel, J. (Eds.) (In preparation - to appear 2025/2026). *Possession Across Underdescribed Indigenous South and Central America: New Insights*. To be submitted to Brill's Studies in the Indigenous Languages of the Americas series.        |
+| Wojtylak, K.I., & Overall, S. (Eds.). (2018). *Nominalization: A view from Northwest Amazonia*. STUF - Language Typology and Universals 71(1).                                                                                                                     |
 
 <p class="item-intro text-muted">Monographs</p>
 
