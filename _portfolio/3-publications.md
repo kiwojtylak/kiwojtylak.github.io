@@ -15,7 +15,6 @@ title: Publications
 |                                                                                                                                                                                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Wojtylak, K. I., & Dolinska, J. (Eds.). (In preparation - to appear 2025). *Embodiment in Cross-Linguistic Studies: The 'Mouth'*. Leiden: Brill.                                                                    |
-| Wojtylak, K.I., & Treis, Y. (Eds.). (2018). *On the Expression of Comparison: Contributions to the typology of comparative constructions from lesser-known languages*. Special issue of Linguistic Discovery 16(1). |
 | Wojtylak, K.I., & Overall, S. (Eds.). (2018). *Nominalization: A view from Northwest Amazonia*. STUF - Language Typology and Universals 71(1).                                                                      |
 
 <p class="item-intro text-muted">Monographs</p>
