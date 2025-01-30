@@ -63,11 +63,12 @@ title: Publications
 
 <p class="item-intro text-muted">Non-Traditional Outputs</p>
 
-|                                                                                                                                                                                                                               |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wojtylak, K.I., Agga Arteagga, W.A., & Lupinski, K.T. (2017). *Kaɨ Ruakɨ - Murui Songs*. CD. Cairns: Firebird, ALTAR, JCU.                                                                                                    |
-| Wojtylak, K.I., & Lupinski, K.T. (2017). *Kai Uai - Our Words: A Documentary of the Murui of Tercera India*. Full Ethnographic Documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=YnhI-6yfYLk).  |
-| Wojtylak, K.I., & Lupinski, K.T. (2016). *Murui Filmmakers*. Short Ethnographic Documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=SJT68R4QUw0).                                                 |
+|                                                                                                                                                                                                                                        |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wojtylak, K.I., & Lupinski, K.T. (2025). *Kaɨ Uai - Our Words: A Glimpse into Murui Life and Language*. Short ethnographic documentary. Krakow: Little Earth Productions. [YouTube link](https://www.youtube.com/watch?v=OWOLsF2FU3c). |
+| Wojtylak, K.I., Agga Arteagga, W.A., & Lupinski, K.T. (2017). *Kaɨ Ruakɨ - Murui Songs*. CD. Cairns: Firebird, ALTAR, JCU.                                                                                                             |
+| Wojtylak, K.I., & Lupinski, K.T. (2017). *Kai Uai - Our Words: A Documentary of the Murui of Tercera India*. Full Ethnographic Documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=YnhI-6yfYLk).           |
+| Wojtylak, K.I., & Lupinski, K.T. (2016). *Murui Filmmakers*. Short Ethnographic Documentary. Cairns: ALTAR, JCU. [YouTube link](https://www.youtube.com/watch?v=SJT68R4QUw0).                                                          |
 
 <p class="item-intro text-muted">Databases</p>
 
