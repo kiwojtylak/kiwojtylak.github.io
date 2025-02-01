@@ -91,38 +91,38 @@ en: &DEFAULT_EN
     list:
       # embedded
       - title: "A Treasure of the Amazon"
-        desc: "A short documentary about the Murui, 2018"
+        desc: "A short documentary about the Murui"
         embed: "qDSH4EAx_8o"
         # icon: fa-brands fa-youtube
       - title: "Kaɨ uai - Our Words"
-        desc: "A Glimpse into Murui Life and Language, 2025"
+        desc: "A Glimpse into Murui Life and Language"
         embed: "OWOLsF2FU3c"
         # icon: fa-brands fa-youtube
       - title: "Murui Filmmakers"
-        desc: "A short documentary on language documentation among the Murui, 2017"
+        desc: "A short documentary on language documentation among the Murui"
         embed: "SJT68R4QUw0"
         # icon: fa-brands fa-youtube
       - title: "The 3MT®"
-        desc: "Journey to the competition’s finals at James Cook University, 2014"
+        desc: "Journey to the competition’s finals at James Cook University"
         embed: "ZTh8qUVbOyM"
         # icon: fa-brands fa-youtube
       - title: "PhD defense"
-        desc: "James Cook University, Cairns, Australia, 2016"
+        desc: "James Cook University, Cairns, Australia"
         embed: "0b6qqNyIXNk"
         # icon: fa-brands fa-youtube
       - title: "The language of ownership"
-        desc: "Insights into the Witotoan language family from Northwest Amazonia, 2025"
+        desc: "Insights into the Witotoan language family from Northwest Amazonia"
         embed: "cNQXK9P4jj4"
         # icon: fa-brands fa-youtube
 
       # links
-      - title: "Linguistic Research Skills: Experiences from the Amazon, 2022"
+      - title: "Linguistic Research Skills: Experiences from the Amazon"
         link: "zaESq6uz0c0"
         icon: fa-youtube
-      - title: "Commands in Murui: Imperative and imperative strategies, 2016"
+      - title: "Commands in Murui: Imperative and imperative strategies"
         link: "MwOMmOwYBgk"
         icon: fa-youtube
-      - title: "Confirmation Seminar PhD thesis of Kasia Wojtylak, 2013"
+      - title: "Confirmation Seminar PhD thesis of Kasia Wojtylak"
         link: "q-KrTNrNlVE"
         icon: fa-youtube
 
