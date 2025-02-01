@@ -91,17 +91,30 @@ en: &DEFAULT_EN
     list:
       # embedded
       - title: "A Treasure of the Amazon"
-        desc: "A short documentary about the Murui"
+        desc: "A short documentary about the Murui, 2018"
         embed: "qDSH4EAx_8o"
         # icon: fa-brands fa-youtube
-      - title: "The 3MT® 2014"
-        desc: "Journey to the competition’s finals at James Cook University"
-        embed: "ZTh8qUVbOyM"
+      - title: "Kaɨ uai - Our Words"
+        desc: "A Glimpse into Murui Life and Language, 2025"
+        embed: "OWOLsF2FU3c"
         # icon: fa-brands fa-youtube
       - title: "Murui Filmmakers"
-        desc: "A short documentary on language documentation among the Murui"
+        desc: "A short documentary on language documentation among the Murui, 2017"
         embed: "SJT68R4QUw0"
         # icon: fa-brands fa-youtube
+      - title: "The 3MT®"
+        desc: "Journey to the competition’s finals at James Cook University, 2014"
+        embed: "ZTh8qUVbOyM"
+        # icon: fa-brands fa-youtube
+      - title: "PhD defense"
+        desc: "James Cook University, Cairns, Australia, 2016"
+        embed: "0b6qqNyIXNk"
+        # icon: fa-brands fa-youtube
+      - title: "The language of ownership"
+        desc: "Insights into the Witotoan language family from Northwest Amazonia, 2025"
+        embed: "cNQXK9P4jj4"
+        # icon: fa-brands fa-youtube
+
       # links
       - title: "Linguistic Research Skills: Experiences from the Amazon"
         link: "zaESq6uz0c0"
