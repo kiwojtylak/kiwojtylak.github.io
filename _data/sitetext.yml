@@ -108,10 +108,6 @@ en: &DEFAULT_EN
         desc: "Journey to the competition’s finals at James Cook University"
         embed: "ZTh8qUVbOyM"
         # icon: fa-brands fa-youtube
-#      - title: "PhD defense"
-#        desc: "James Cook University, Cairns, Australia"
-#        embed: "0b6qqNyIXNk"
-        # icon: fa-brands fa-youtube
       - title: "The language of ownership"
         desc: "Insights into the Witotoan language family from Northwest Amazonia"
         embed: "cNQXK9P4jj4"
@@ -127,9 +123,12 @@ en: &DEFAULT_EN
       - title: "Commands in Murui: Imperative and imperative strategies"
         link: "MwOMmOwYBgk"
         icon: fa-youtube
-      - title: "Confirmation Seminar PhD thesis of Kasia Wojtylak"
-        link: "q-KrTNrNlVE"
+      - title: "PhD defense: James Cook University, Cairns, Australia"
+        link: "0b6qqNyIXNk"
         icon: fa-youtube
+#      - title: "Confirmation Seminar PhD thesis of Kasia Wojtylak"
+#        link: "q-KrTNrNlVE"
+#        icon: fa-youtube
 
 #  clients:
 #    section: clients
