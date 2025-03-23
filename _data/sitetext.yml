@@ -108,15 +108,18 @@ en: &DEFAULT_EN
         desc: "Journey to the competition’s finals at James Cook University"
         embed: "ZTh8qUVbOyM"
         # icon: fa-brands fa-youtube
-      - title: "PhD defense"
-        desc: "James Cook University, Cairns, Australia"
-        embed: "0b6qqNyIXNk"
+#      - title: "PhD defense"
+#        desc: "James Cook University, Cairns, Australia"
+#        embed: "0b6qqNyIXNk"
         # icon: fa-brands fa-youtube
       - title: "The language of ownership"
         desc: "Insights into the Witotoan language family from Northwest Amazonia"
         embed: "cNQXK9P4jj4"
         # icon: fa-brands fa-youtube
-
+      - title: "Unpacking Meaning"
+        desc: "Classifiers in Witotoan Languages of the Amazon"
+        embed: "ufCxWzX3HQY"
+        # icon: fa-brands fa-youtube
       # links
       - title: "Linguistic Research Skills: Experiences from the Amazon"
         link: "zaESq6uz0c0"
